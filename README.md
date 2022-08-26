@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Isaid Graterol
 - 👀 I’m interested in Front End Web Development
 - 🌱 I’m currently working at Castor App
-- 💞️ I work with HTML, REACT, SASS, REDUX, GIT, JIRA
+- 💞️ I work with HTML, REACT, SASS, REDUX, GIT, JIRA, CHAKRA UI, STYLED COMPONENTS, GOOGLE TAG MANAGER, GOOGLE OPTIMIZE, CYPRESS, FIREBASE
 - 📫 How to reach me: Whatsapp: +593978960542
 
 <!---
